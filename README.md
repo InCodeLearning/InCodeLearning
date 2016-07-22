@@ -9,6 +9,7 @@ This is the main repo for in code learning. The philosophy is to write source co
 - Algorithm and Data Structures
 - C
 - CSAPP (Computer System as a Programmer's Perspective)
+- [Python](https://github.com/InCodeLearning/InCodeLearning-Python)
 
 # Cotributing to InCodeLearning
 
@@ -21,7 +22,7 @@ We plan to hold weekly video conferences for study groups. Current plan is to ex
 **Basic requirement:**
 
 - Fluent english spearking, reading, and writing.
-- Strict time commitment of 30-60 minutes for weekly meetings.
+- Strict time commitment of 30-60 minutes for weekly meetings. Must be living in United State time zones for easy meeting time coordination.
 - Must contribute at least 50 lines of source code/comments each week.
 - Detail oriented, be able to explain what you learned and your contributed code to others.
 - Knowing basic git and [github workflow](https://guides.github.com/introduction/flow/).
