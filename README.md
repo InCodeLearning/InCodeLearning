@@ -9,7 +9,7 @@ This is the main repo for in code learning. The philosophy is to write source co
 - Algorithm and Data Structures
 - C
 - CSAPP (Computer System as a Programmer's Perspective)
-- [Python](https://github.com/InCodeLearning/InCodeLearning-Python)
+- [Python 3](https://github.com/InCodeLearning/InCodeLearning-Python)
 
 Note: Currently active projects have links and others are planned (not officially started) and you are welcome to contact me to join.
 
@@ -31,6 +31,7 @@ Please check deadlines and specifics at each repo's readme.
 - Detail oriented, be able to explain what you learned and your contributed code to others.
 - Knowing basic git and [github workflow](https://guides.github.com/introduction/flow/).
 - Must be able to coordinate with each repo's schedule if already established and follow the deadlines strictly.
+- Please complete the [github workflow practice here](https://github.com/InCodeLearning/git-github/blob/master/github-workflow-homework.md) and send me the link of your repo before you join the team.
 
 **Preferred:**
 
