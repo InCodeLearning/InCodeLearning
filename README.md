@@ -17,7 +17,15 @@ Note: Currently active projects have links and others are planned (not officiall
 
 You are more than welcome to contribute to any repos here. Every code file must be bug free and well commented. Please check some of the sample codes in the above list of repos. Please fork any of the above repo and create pull request. If you are interested in creating a repo for a new topic, please use the [contact form here](https://docs.google.com/forms/d/1aRvI2SLpP0_amCUc_pGSM-g2gBbuPt6XDPckP_zaugw/).
 
-# Study Group
+## Pure GitHub Participants
+
+If you perfer a casual schedule and do not like to communicate much with others on hangout chat or video hangout conference, you can participate in this format. Neither do you like to follow deadlines. What you will get:
+
+- A branch where you could submit your code and PR. Your code should follow each repo's code requirements.
+- Your PRs will be reviewed by our team administrators and/or other team members after study group participants' code are reviewed.
+- We will communicate through comments on your PR.
+
+## Study Group Participants
 
 Weekly video conferences for study groups is held via Google hangout and will be recorded for future reference (not listed publicly). Recordings will be available in an private Google plus community. Current routine is to exchange source code on github, chat and weekly video conference with google hangout. So you must be able to commit new codes weekly and explain what you have learned on the weekly video conference.
 
@@ -31,9 +39,9 @@ Please check deadlines and specifics at each repo's readme.
 - Detail oriented, be able to explain what you learned and your contributed code to others.
 - Knowing basic git and [github workflow](https://guides.github.com/introduction/flow/).
 - Must be able to coordinate with each repo's schedule if already established and follow the deadlines strictly.
-- Please complete the [github workflow practice here](https://github.com/InCodeLearning/git-github/blob/master/github-workflow-homework.md) and send me the link of your repo before you join the team.
 
 **Preferred:**
 
 - Git experience and github record of repos and commits.
 - Past record of collaboration with others on github.
+- Enthusastic to communicate with team members through all channels.
