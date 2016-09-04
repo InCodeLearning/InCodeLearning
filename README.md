@@ -18,6 +18,8 @@ Note: Currently active projects have links and others are planned (not officiall
 
 You are more than welcome to contribute to any repositories here. Every code file must be bug free. Please check some of the sample codes in the above list of repositories. Please fork any of the above repo and create pull request. If you are interested in creating a repo for a new topic, please use the [contact form here](https://docs.google.com/forms/d/1aRvI2SLpP0_amCUc_pGSM-g2gBbuPt6XDPckP_zaugw/).
 
+The effect will be better than any regular learning platforms. Since after a regular course/class, one usually still has to do his/her own summary. In our organization, you have opportunities to present your knowledge to others and learn from others, both of which will impress your brain more. All the knowledge points are also recorded in the GitHub repositories for future look up. If you participate in our study groups, you also get to discuss face to face with the team and will have access to all our meeting video recordings.
+
 ## Pure GitHub Participants
 
 If you prefer a casual schedule and do not like to communicate much with others on hangout chat or video hangout conference, you can participate in this format. What you will get:
